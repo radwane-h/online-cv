@@ -56,7 +56,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Currently Software Architect, through my career have been insterested and involved as coach, lead developer, developer to all kind of improvements to better construct a product:
+      Currently Software Architect, through my career I have been insterested and involved as coach, lead developer, developer to all kind of improvements to better construct a product:
         - Specification, modeling and development (BDD, DDD)
         - Improving process and quality (TDD, XP)
         - Agile coaching (Lean, Scrum, Kanban)
@@ -81,7 +81,7 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Architect / Lead Developer
+      - role: **Architect / Lead Developer**
         time: 2018 - Present
         company: Veepee (Vente-privee.com)
         details: |
@@ -97,11 +97,11 @@ experiences:
         details: |
           As a senior engineer at Valtech I had the chance to work in multiple projects: 
 
-          Developing web factories application in asp.net MVC, JavaScript and Episerver for one of worldwide beauty leader.
+          - Developing web factories application in asp.net MVC, JavaScript and Episerver for one of worldwide beauty leader.
 
-          Building monitoring tools (Node.js, Amazon Lambda)
+          - Building monitoring tools (Node.js, Amazon Lambda).
 
-          Developing a search api respecting REST principles (c#, asp.net 5, vagrant, TDD, BDD).
+          - Developing a search api respecting REST principles (c#, asp.net 5, vagrant, TDD, BDD).
       - role: Technical Coach (Software Craftsmanship)
         time: 2014 - 2015
         company: SG CIB, Paris (Valtech)
@@ -113,6 +113,20 @@ experiences:
           My usual workflow was to work with 3 to 4 teams in regular basis, setting up weekly Kata/coding dojo, to discuss and learn TDD, Refactoring, clean code... which we applied to real code samples. In pair or mob programming format.
           Help the team to build a solid continuous improvement approach.
           Changing organization when needed (feature teams / open source mode...)
+          
+      - role: Technical Coach (Software Craftsmanship)
+        time: 2013 - 2014
+        company: ZAGS (Valtech)
+        details: |
+          Built and train teams to testing practices and helped them to apply it in their codebase, through pair and mob programming sessions.
+
+          Training to legacy code techniques and implementing refactoring in a large .NET application.
+          
+      - role: Developer and passionate agilist
+        time: 2007 - 2013
+        company: SQLI - Valtech
+        details: |
+          Worked as consultant and helped different customers (Peugot, Veepee, Taliance) to adopt agility and technical best practices (CI, Testing...) in different technogical stacks (WPF, Asp.net...)
 
 
 footer: >
