@@ -57,13 +57,13 @@ career-profile:
     title: Career Profile
     summary: |
       Currently Software Architect, through my career have been insterested and involved as coach, lead developer, developer to all kind of improvements to better construct a product:
-        • Specification, modeling and development (BDD, DDD)
-        • Improving process and quality (TDD, XP)
-        • Agile coaching (Lean, Scrum, Kanban)
-        • Sharing and building community
-        • Product lead company
+        - Specification, modeling and development (BDD, DDD)
+        - Improving process and quality (TDD, XP)
+        - Agile coaching (Lean, Scrum, Kanban)
+        - Sharing and building community
+        - Product lead company
 
-      http://NCrafts.io conference co-creator, facilitator and speak sometimes at conferences (last flowCon & Elm Europe)
+      [newcrafts](https://ncrafts.io) conference co-creator, facilitator and speak sometimes at conferences (last flowCon & Elm Europe)
 
 education:
     title: Education
@@ -89,8 +89,8 @@ experiences:
 
           Lead developer of Data Production Product: Our users create the product catalog of Veepee and render the technical sheets to the front.
           I mentor teammate to grow and built autonomous team.
-            ELM, F#, Javascript
-            Kanban 
+            - ELM, F#, Javascript
+            - Kanban 
       - role: Senior Software Engineer
         time: 2015 - 2018
         company: Valtech, NYC
@@ -101,7 +101,7 @@ experiences:
 
           Building monitoring tools (Node.js, Amazon Lambda)
 
-          Developing a search api respecting REST principles (c#, asp.net 5, vagrant, TDD, BDD)
+          Developing a search api respecting REST principles (c#, asp.net 5, vagrant, TDD, BDD).
       - role: Technical Coach (Software Craftsmanship)
         time: 2014 - 2015
         company: SG CIB, Paris (Valtech)
