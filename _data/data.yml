@@ -7,47 +7,47 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Radwane Hassen
+    tagline: Software Architect 
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: 
+    phone: 
+    timezone: Paris/CET
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website: 
+    linkedin: radwane-hassen-64913433
+    xing: 
+    github: radwane-h
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@radwane_h'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: 
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: French
           level: Native
 
-        - idiom: French
-          level: Professional
+        - idiom: English
+          level: Fluent
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: Arabic
+          level: Native
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Sport
           link:
 
-        - item: Snowboarding
+        - item: Reading (Philosophy, Psychology, design thinking...)
           link:
 
         - item: Cooking
@@ -56,147 +56,64 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Currently Software Architect, through my career have been insterested and involved as coach, lead developer, developer to all kind of improvements to better construct a product:
+        • Specification, modeling and development (BDD, DDD)
+        • Improving process and quality (TDD, XP)
+        • Agile coaching (Lean, Scrum, Kanban)
+        • Sharing and building community
+        • Product lead company
+
+      http://NCrafts.io conference co-creator, facilitator and speak sometimes at conferences (last flowCon & Elm Europe)
+
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Master degree in Computer Science
+        university: Nice Sophia Antipolis University
+        time: 2006 - 2007
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          Master MBDS, Computer science
+      - degree: Bachlor
+        university: Claude Bernard Lyon 1 University
+        time: 2002 - 2006
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Architect / Lead Developer
+        time: 2018 - Present
+        company: Veepee (Vente-privee.com)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          Modeling and helping Business team understand and design the future of Veepee sale production flow.
+
+          Lead developer of Data Production Product: Our users create the product catalog of Veepee and render the technical sheets to the front.
+          I mentor teammate to grow and built autonomous team.
+            ELM, F#, Javascript
+            Kanban 
       - role: Senior Software Engineer
+        time: 2015 - 2018
+        company: Valtech, NYC
+        details: |
+          As a senior engineer at Valtech I had the chance to work in multiple projects: 
+
+          Developing web factories application in asp.net MVC, JavaScript and Episerver for one of worldwide beauty leader.
+
+          Building monitoring tools (Node.js, Amazon Lambda)
+
+          Developing a search api respecting REST principles (c#, asp.net 5, vagrant, TDD, BDD)
+      - role: Technical Coach (Software Craftsmanship)
         time: 2014 - 2015
-        company: Google, London
+        company: SG CIB, Paris (Valtech)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+          Working in a global transformation program including 35 coaches to introduce new practices and implements them in projects.
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+          As a coach I helped team and organization to improve their flow. And worked daily with developers to improve their Craftsmanship skills (TDD, BDD, Clean code, Continuous integration...).
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+          My usual workflow was to work with 3 to 4 teams in regular basis, setting up weekly Kata/coding dojo, to discuss and learn TDD, Refactoring, clean code... which we applied to real code samples. In pair or mob programming format.
+          Help the team to build a solid continuous improvement approach.
+          Changing organization when needed (feature teams / open source mode...)
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
