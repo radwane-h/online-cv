@@ -85,19 +85,24 @@ experiences:
         time: 2018 - Present
         company: Veepee (Vente-privee.com)
         details: |
-          Modeling and helping Business team understand and design the future of Veepee sale production flow.
+        2021 > Present - Architect
+        Modeling and helping the Business team understand and design the future of Veepee sale production flow.
+        Focus on Data Quality Issues, measure and elaborate a plan to reduce cost of data production.
+        Help teams to define experiments and deliver small increments.
+        DDDesign, Event Storming, Data Analysis
 
-          Lead developer of Data Production Product: Our users create the product catalog of Veepee and render the technical sheets to the front.
-          I mentor teammate to grow and built autonomous team.
-            - ELM, F#, Javascript
-            - Kanban 
+        2018 > 2021 - Lead Developer
+        Lead developer of Data Production Product: Our users create the product catalog of Veepee and render the technical sheets to the front. I mentored teammates to grow and build an autonomous team.
+        Our mission was to migrate a legacy .NET application to a new architecture using a custom Veepee PIM.
+
+        ELM, F#, Javascript, Kanban
       - role: Senior Software Engineer
         time: 2015 - 2018
         company: Valtech, NYC
         details: |
           As a senior engineer at Valtech I had the chance to work in multiple projects: 
 
-          - Developing web factories application in asp.net MVC, JavaScript and Episerver for one of worldwide beauty leader.
+          - Developing web application in asp.net MVC, JavaScript, Episerver and Sitecore for various customers including one of worldwide beauty leader.
 
           - Building monitoring tools (Node.js, Amazon Lambda).
 
@@ -127,6 +132,14 @@ experiences:
         company: SQLI - Valtech
         details: |
           Worked as consultant and helped different customers (Peugot, Veepee, Taliance) to adopt agility and technical best practices (CI, Testing...) in different technogical stacks (WPF, Asp.net...)
+
+
+          Peugeot : Introduced agility XP (CI, TDD…) & Scrum to their Dealer factory teams
+          Veepee : Introduced agility practices and testing as Lead developer to the large scale e-commerce website.
+          Taliance : developer, built a robust app using DDDesign practices and testing.
+
+          Mentoring and recruiting new comers, being Scrum Master, agile coach.
+
 
 
 footer: >
