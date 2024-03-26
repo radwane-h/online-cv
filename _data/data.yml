@@ -85,13 +85,13 @@ experiences:
         time: 2018 - Present
         company: Veepee (Vente-privee.com)
         details: |
-          2021 > Present - Architect
+          2021 > Present - Architect:
           Modeling and helping the Business team understand and design the future of Veepee sale production flow.
           Focus on Data Quality Issues, measure and elaborate a plan to reduce cost of data production.
           Help teams to define experiments and deliver small increments.
           DDDesign, Event Storming, Data Analysis
 
-          2018 > 2021 - Lead Developer
+          2018 > 2021 - Lead Developer:
           Lead developer of Data Production Product: Our users create the product catalog of Veepee and render the technical sheets to the front. I mentored teammates to grow and build an autonomous team.
           Our mission was to migrate a legacy .NET application to a new architecture using a custom Veepee PIM.
 
